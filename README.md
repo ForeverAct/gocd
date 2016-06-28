@@ -28,7 +28,10 @@ GoCD is an open source project, sponsored by <a href="http://www.thoughtworks.co
 ThoughtWorks Go 是 ThoughtWorks 公司的一款持续集成和发布的系统。采用 Java 语言开发。
 
 流程图如下所示：
-
+<img src="http://static.oschina.net/uploads/space/2014/0227/091620_gDg3_12.png"  width="96%" />
 软件使用截图：
+<img src="http://static.oschina.net/uploads/space/2014/0227/092737_lRkY_12.png"  width="96%" />
+<img src="http://static.oschina.net/uploads/space/2014/0227/092738_fEVJ_12.png"  width="96%" />
+<img src="http://static.oschina.net/uploads/space/2014/0227/092743_FIR9_12.png"  width="96%" />
 
 
