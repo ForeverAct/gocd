@@ -18,3 +18,17 @@ A lot of useful information like links to user documentation, design documentati
 ## License
 
 GoCD is an open source project, sponsored by <a href="http://www.thoughtworks.com/">ThoughtWorks Inc.</a> under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+
+
+
+
+
+
+
+ThoughtWorks Go 是 ThoughtWorks 公司的一款持续集成和发布的系统。采用 Java 语言开发。
+
+流程图如下所示：
+
+软件使用截图：
+
+
